@@ -1,0 +1,1 @@
+# Write a Python program to convert a binary number to decimal number

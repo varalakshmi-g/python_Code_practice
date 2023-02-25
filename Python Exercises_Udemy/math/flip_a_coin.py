@@ -1,0 +1,1 @@
+# Write a Python program to flip a coin 1000 times and count heads and tails.
